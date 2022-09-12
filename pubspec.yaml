@@ -12,6 +12,9 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
+  fluro: ^2.0.3
+  provider: ^6.0.3
+  pin_code_fields: ^7.4.0
 
 dev_dependencies:
   flutter_test:
